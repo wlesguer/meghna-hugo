@@ -1,4 +1,4 @@
-baseURL = "https://gengi-test.netlify.com"
+baseURL = "https://gengu-test.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
